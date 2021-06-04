@@ -1,0 +1,12 @@
+Source: pardus-dolunay-icon-theme
+Section: utils
+Priority: optional
+Maintainer: Fatih Altun <fatih.altun@pardus.org.tr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://pardus.org.tr
+
+Package: pardus-dolunay-icon-theme
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: pardus-dolunay-icon-theme
