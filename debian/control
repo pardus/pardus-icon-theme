@@ -8,5 +8,5 @@ Homepage: http://pardus.org.tr
 
 Package: pardus-dolunay-icon-theme
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, librsvg2-common
 Description: pardus-dolunay-icon-theme
