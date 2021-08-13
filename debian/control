@@ -1,12 +1,16 @@
-Source: pardus-dolunay-icon-theme
+Source: pardus-icon-theme
 Section: utils
 Priority: optional
 Maintainer: Fatih Altun <fatih.altun@pardus.org.tr>
-Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.6
-Homepage: http://pardus.org.tr
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.5.0
+Homepage: https://www.pardus.org.tr
 
-Package: pardus-dolunay-icon-theme
+Package: pardus-icon-theme
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, librsvg2-common
-Description: pardus-dolunay-icon-theme
+Description: Pardus Icon Theme for Pardus desktop environment.
+
+Provides: pardus-dolunay-icon-theme
+Conflicts: pardus-dolunay-icon-theme
+Replaces: pardus-dolunay-icon-theme

@@ -1,14 +1,14 @@
-all: etar
+all: nomake
 
-etar:
+nomake:
 	@echo "no make"
 
 install:
 	mkdir -p $(DESTDIR)/usr/share/icons
-	@cp -fr PardusDolunay $(DESTDIR)/usr/share/icons/
+	@cp -fr pardus $(DESTDIR)/usr/share/icons/
 
 uninstall:
-	@rm -fr $(DESTDIR)/usr/share/icons/PardusDolunay
+	@rm -fr $(DESTDIR)/usr/share/icons/pardus
 
 .PHONY: install uninstall
 
