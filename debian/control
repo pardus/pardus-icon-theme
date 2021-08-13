@@ -10,7 +10,6 @@ Package: pardus-icon-theme
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, librsvg2-common
 Description: Pardus Icon Theme for Pardus desktop environment.
-
 Provides: pardus-dolunay-icon-theme
 Conflicts: pardus-dolunay-icon-theme
 Replaces: pardus-dolunay-icon-theme
