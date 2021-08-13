@@ -1,7 +1,9 @@
 [Icon Theme]
-Name=Pardus Dolunay
-Comment=Pardus Dolunay icon theme
-#Inherits=pardus
+Name=Pardus Icon Theme
+Name[tr]=Pardus İkon Teması
+Comment=Pardus 21 Dolunay Icon Theme 
+Comment[tr]=Pardus 21 Dolunay İkon Teması
+Inherits=Adwaita
 
 Example=folder
 
