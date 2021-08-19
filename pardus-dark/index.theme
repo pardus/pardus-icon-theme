@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=Pardus Dark
+Name[tr]=Pardus Karanlık
+Comment=Dark icon theme for Pardus.
+Comment[tr]=Pardus için karanlık ikon teması.
+Inherits=pardus
+
+# List all directories
+Directories=

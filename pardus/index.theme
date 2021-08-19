@@ -1,61 +1,65 @@
 [Icon Theme]
-Name=Pardus Icon Theme
-Name[tr]=Pardus İkon Teması
-Comment=Pardus 21 Dolunay Icon Theme 
-Comment[tr]=Pardus 21 Dolunay İkon Teması
+Name=Pardus
+Name[tr]=Pardus
+Comment=Icon theme for Pardus.
+Comment[tr]=Pardus için simge teması.
 Inherits=Adwaita
 
-Example=folder
+# List all directories
+Directories=statusbar,statusbar/battery,statusbar/nm,actions,places,categories,places/16x16,apps
 
-FollowsColorScheme=true
+[statusbar]
+Context=Status
+Size=64
+MinSize=16
+MaxSize=512
+Type=Scalable
 
-DesktopDefault=48
-DesktopSizes=16,22,24,32,48,64
-ToolbarDefault=22
-ToolbarSizes=16,22,24,32,48
-MainToolbarDefault=22
-MainToolbarSizes=16,22,24,32,48
-SmallDefault=16
-SmallSizes=16,22,24,32,48
-PanelDefault=48
-PanelSizes=16,22,24,32,48,64
-DialogDefault=48
-DialogSizes=16,22,24,32,48,64
+[statusbar/battery]
+Context=Battery
+Size=64
+MinSize=16
+MaxSize=512
+Type=Scalable
 
-# Directory list
-Directories=actions,apps,categories,places,symbolic/status
+[statusbar/nm]
+Context=Battery
+Size=64
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [actions]
 Context=Actions
 Size=64
 MinSize=16
-MaxSize=64
+MaxSize=512
 Type=Scalable
 
-[apps]
-Context=Applications
-Size=64
+[places]
+Context=Places
+Size=200
 MinSize=16
-MaxSize=64
+MaxSize=512
+Type=Scalable
+
+[places/16x16]
+Context=Places
+Size=16
+MinSize=16
+MaxSize=24
 Type=Scalable
 
 [categories]
 Context=Categories
 Size=64
 MinSize=16
-MaxSize=64
+MaxSize=512
 Type=Scalable
 
-[places]
-Context=Places
+[apps]
+Context=Applications
 Size=64
-MinSize=16
-MaxSize=64
-Type=Scalable
-
-[symbolic/status]
-Context=Status
-Size=16
 MinSize=16
 MaxSize=512
 Type=Scalable

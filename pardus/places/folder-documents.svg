@@ -1,41 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg58" inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)" sodipodi:docname="folder-documents.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 200"
-	 style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:url(#SVGID_2_);}
-	.st2{fill:none;}
-	.st3{opacity:0.4;}
-	.st4{fill:#283142;}
+	.st1{fill:url(#SVGID_00000150074048962756802570000013947752486638531256_);}
+	.st2{opacity:0.6;fill:#FFFFFF;enable-background:new    ;}
 </style>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="161.1542" y1="-82.0411" x2="61.039" y2="147.1383">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="46.7219" y1="-1076.3619" x2="36.4749" y2="-1053.5583" gradientTransform="matrix(1 0 0 1 0 1082)">
 	<stop  offset="0" style="stop-color:#56CCF2"/>
 	<stop  offset="1" style="stop-color:#2F80ED"/>
 </linearGradient>
-<path class="st0" d="M164.4,32h-135c-11.6,0-21,9.3-21.1,20.9c0,1,0.1,1.9,0.2,2.9c0.3,2.3,2.4,3.9,4.7,3.6c0.6-0.1,1.1-0.3,1.6-0.5
-	c1.9-1.1,4-1.6,6.1-1.6h21.6c5.4,0,10.2,3.5,12,8.6l0.7,2.3c2.9,8.6,11,14.4,20,14.4h97.6c2.2,0,4.4,0.6,6.3,1.7
-	c2,1.2,4.6,0.5,5.8-1.5c0.4-0.6,0.6-1.4,0.6-2.1V53.1C185.5,41.4,176.1,32,164.4,32z"/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="93.3406" y1="-34.5056" x2="103.9736" y2="251.6995">
+<path class="st0" d="M61.2,18.6L64,60.4c0,1.9-1.9,3.6-4.4,3.6H4.4C1.9,64,0,62.4,0,60.4v-44c0-1.9,1.9-3.6,4.4-3.6L56.9,15
+	C59.2,15,61.2,16.7,61.2,18.6z"/>
+<linearGradient id="SVGID_00000160182468781651452150000018308187470932551563_" gradientUnits="userSpaceOnUse" x1="20.7831" y1="-1074.4734" x2="38.0388" y2="-1006.0723" gradientTransform="matrix(1 0 0 1 0 1082)">
 	<stop  offset="0" style="stop-color:#56CCF2"/>
 	<stop  offset="1" style="stop-color:#2F80ED"/>
 </linearGradient>
-<path class="st1" d="M185.5,56.1c-3.2-1.9-6.9-2.9-10.6-2.9H77.4c-5.4,0-10.2-3.5-12-8.6l-0.7-2.3c-2.9-8.6-11-14.4-20-14.4H23
-	c-3.6,0-7.2,0.9-10.3,2.7C11,31.5,9.5,32.7,8.2,34c-4,3.9-6.3,9.3-6.3,14.9v107.9c0,8,6.5,14.4,14.4,14.4h42.8h88h34.4
-	c8,0,14.4-6.5,14.4-14.4V74.4C196.1,66.9,192.1,59.9,185.5,56.1z"/>
-<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview60" inkscape:current-layer="svg58" inkscape:cx="110.80496" inkscape:cy="60.031613" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="949" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="36" inkscape:zoom="0.834386" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
-	</sodipodi:namedview>
-<polygon class="st2" points="364.3,20.7 407.6,20.7 385.9,58.2 364.3,95.7 342.6,58.2 321,20.7 "/>
-<g class="st3">
-	<g>
-		<path class="st4" d="M119.1,147.3H80.9c-5,0-9.1-4.1-9.1-9.1V82.4c0-5,4.1-9.1,9.1-9.1h5.7c22.9,0,41.6,18.7,41.6,41.6v23.3
-			C128.2,143.2,124.1,147.3,119.1,147.3z M80.9,77c-3,0-5.4,2.4-5.4,5.4v55.8c0,3,2.4,5.4,5.4,5.4h38.2c3,0,5.4-2.4,5.4-5.4v-23.3
-			c0-20.9-17-37.9-37.9-37.9C86.6,77,80.9,77,80.9,77z"/>
-	</g>
-	<g>
-		<path class="st4" d="M97.6,76.7l-1.9,15.6c-0.6,4.6,3,8.6,7.6,8.6h20.6C123.8,100.8,116.3,80.4,97.6,76.7z"/>
-	</g>
-</g>
+<path style="fill:url(#SVGID_00000160182468781651452150000018308187470932551563_);" d="M63.9,44.9v15.6c0,1.9-1.9,3.6-4.4,3.6H4.4
+	C1.9,64,0,62.4,0,60.4v-44c0-1.9,1.9-3.6,4.4-3.6h11.9c4.9-0.1,9.8,1.1,14.2,3.3L52,27.2C59.5,31.1,63.9,37.9,63.9,44.9z"/>
+<path class="st2" d="M24.7,27.8H24c-2.3,0-4.2,1.9-4.2,4.2v21.1c0,2.3,1.9,4.2,4.2,4.2h14.3c2.3,0,4.2-1.9,4.2-4.2v-7.6
+	C42.5,35.7,34.5,27.8,24.7,27.8z M41.2,53.1c0,1.6-1.3,2.9-2.9,2.9H24c-1.6,0-2.9-1.3-2.9-2.9V32c0-1.6,1.3-2.9,2.9-2.9h0.7
+	c1.6,0,3,0.2,4.5,0.6v5.5c-0.2,1.6,0.9,3,2.4,3.2c0.1,0,0.3,0,0.4,0h7.6c1.1,2.2,1.6,4.6,1.6,7.1V53.1L41.2,53.1z"/>
 </svg>
