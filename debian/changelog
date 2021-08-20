@@ -1,3 +1,9 @@
+pardus-icon-theme (2.0.0~beta3) unstable; urgency=medium
+
+  * Add ac-adapter-symbolic icon
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Fri, 20 Aug 2021 17:39:09 +0300
+
 pardus-icon-theme (2.0.0~beta2) unstable; urgency=medium
 
   * Update icons and add dark
