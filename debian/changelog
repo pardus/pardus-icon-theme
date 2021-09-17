@@ -1,3 +1,9 @@
+pardus-icon-theme (2.0.0~beta4) unstable; urgency=medium
+
+  * Update pardus-pm-mode icons and Add bluetooth-active, presentation icons
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Fri, 17 Sep 2021 19:58:29 +0300
+
 pardus-icon-theme (2.0.0~beta3) unstable; urgency=medium
 
   * Add ac-adapter-symbolic icon
