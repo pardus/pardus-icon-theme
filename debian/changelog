@@ -1,3 +1,18 @@
+pardus-icon-theme (2.0.0~beta6) unstable; urgency=medium
+
+  [ Yusuf Düzgün ]
+  * replace new folder icons
+  * added sticky icon
+  * added new office mime icons
+  * added new mime text icons
+  * added new audio mime icons
+  * removed opened folder icons
+  * added new pardus xfce tweaks icon
+  * configured index.theme for new icons
+  * added links for fcking docx !
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Mon, 28 Mar 2022 18:15:14 +0300
+
 pardus-icon-theme (2.0.0~beta5) unstable; urgency=medium
 
   [ Yusuf Düzgün ]
