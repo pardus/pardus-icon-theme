@@ -1,3 +1,17 @@
+pardus-icon-theme (2.1.0~beta1) unstable; urgency=medium
+
+  [ Yusuf Düzgün ]
+  * fixed office icons
+  * added deb package icons
+  * add packages folder
+  * added mimes folder
+  * added pdf icon
+  * added cd-dvd icon
+  * modifed deb package icon
+  * modifed standart text icon
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Thu, 21 Jul 2022 12:04:56 +0300
+
 pardus-icon-theme (2.0.0~beta6) unstable; urgency=medium
 
   [ Yusuf Düzgün ]
