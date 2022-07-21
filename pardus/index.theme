@@ -6,7 +6,7 @@ Comment[tr]=Pardus için simge teması.
 Inherits=Adwaita
 
 # List all directories
-Directories=statusbar,statusbar/battery,statusbar/nm,actions,places,categories,places/16x16,apps,mimes/office,mimes/audio,mimes/text
+Directories=statusbar,statusbar/battery,statusbar/nm,actions,places,categories,places/16x16,apps,mimes/office,mimes/audio,mimes/text,mimes/packages
 
 [statusbar]
 Context=Status
@@ -79,6 +79,13 @@ MaxSize=512
 Type=Scalable
 
 [mimes/text]
+Context=Mimetypes
+Size=64
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[mimes/packages]
 Context=Mimetypes
 Size=64
 MinSize=16
