@@ -3,7 +3,7 @@ Name=Pardus
 Name[tr]=Pardus
 Comment=Icon theme for Pardus.
 Comment[tr]=Pardus için simge teması.
-Inherits=Adwaita
+Inherits=Adwaita,Tango
 
 # List all directories
 Directories=statusbar,statusbar/battery,statusbar/nm,actions,places,categories,places/16x16,apps,mimes/office,mimes/audio,mimes/text,mimes/packages,mimes
