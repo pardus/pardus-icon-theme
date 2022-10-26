@@ -1,3 +1,10 @@
+pardus-icon-theme (2.1.0~beta3) unstable; urgency=medium
+
+  * Add emblem-pardus-symbolic icon
+  * Add pardus-mycomputer icon
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Wed, 26 Oct 2022 16:03:46 +0300
+
 pardus-icon-theme (2.1.0~beta2) unstable; urgency=medium
 
   * Add Tango to Inherits
