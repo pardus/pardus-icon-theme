@@ -1,3 +1,9 @@
+pardus-icon-theme (2.1.0~beta4) unstable; urgency=medium
+
+  * Add starred-symbolic icon
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Mon, 26 Dec 2022 18:32:28 +0300
+
 pardus-icon-theme (2.1.0~beta3) unstable; urgency=medium
 
   * Add emblem-pardus-symbolic icon
